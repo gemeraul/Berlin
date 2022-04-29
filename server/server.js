@@ -12,6 +12,8 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 app.use(require('./routes/record'));
+app.use(require('./routes/auth'));
+app.use(require('./routes/sentiment'));
 
 // Global error handling
 app.use(function (err, _req, res) {

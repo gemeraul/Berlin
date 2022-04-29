@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "berlin-348706",
+    "private_key_id": "76a7f3029079778d55bf1b6019497e193cf10610",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCml7oljJB8EGHo\no7zW/gr+zm+6OgO7L0/UCtpAeVSm9i7VZ2e4BEQTgxW0tjVeokJkA2rF5Mtr2MZ2\n2FKn4H7DUdoUVL/O30LhRKxd/i120PJHkd9YByST4hnp0HZko8QEmUKsQ65atp2s\nmWfS/4cfDnFjCSzPnPbPpof6Lv2hM+NDsSgxibGc4TEwQHj11f9XgMDi/jdb6/4H\nIekzR8zcnzGSK1byqfT8aqKBWXHjTzOmvad7gXAwi/tlHVSgTu871YIkhfqamTkL\ntg2s6I3dnLlygN+YtfMuwKFIqLJF9TZo/+AHuMZhzQ38GGSDWEYfmchNLuSU5uWt\n5B8KBDWZAgMBAAECggEACUS3bF+3KX0x1/hwHlf7nZ83nm6cMYhZfSHDcG3aVKsC\nrQh36p2Az23DbI6XRotpfS38J+6+6zegHGbpplcPm7yh5kVWzI16/OnOBdwJLytD\nJ3yJUVjzDdqOTYYLEuCnnF04f+QIvxmaM8rvI1E9ym+1GujyRMoQqI81Jn6sdBDw\nrsbEW5yGQOvzHEdw6XYnOD85JELzLDwkeAFz1lmvd0GZNwJcQAuYcAeZe+SYm0ih\nn4x3RglsSIpI8uNF5L8l7btqq1/3JcDBMVnuD808E03c56fR//mkOGLtt1wYHIM2\nT9apoB8ngjBcYn755yBGfxAhr6Se0/mvH47UkPYqNwKBgQDmEG9VTDrUxcafIgAF\nJ8TX8ftkVn36WmRfRIXSO75KVt3NIjbAReFfDSsspMi6xm7xKnp62ZHV1AH8oVmw\nr3XY3EZGAHo+RJ2L3vwanLUrf7nculQ4tuwRkNFIjkWZkie0ktVGg8qlKRr4+ZDs\n7c4NS4SXUCDIjh+RBQaNxt+JlwKBgQC5X4dMskvpXW0Q3RPF8laFZG/KjvOuWSRu\n5rQc4OSBEFjNxO2zj8MiQ+te0kAaCVQ7H8DmLQhyYQoYbSHL76bH4tdNK3qMz7BG\nIg6zLb0Wello9sxb0VNyDNWDd1Zj7/Zb1lr9NNFzhPof8wu3VAtRt8FmmTekIovO\n+R6e4tVATwKBgQCHHuH0rAfljZ8hOVvfq0LOPb4TaUUmM869sUYTeqlBihFM+KpF\ndQVvyRExcDrAj+j61aMH4h7oAlOEZ9OAlRzW2FChrogdaDlLvBQ/IQi62pJz1C/A\n+5Zcnrx8K6svDgsp4A9JEgCDzkecMR9wOB8L6e2e3R3UDLz3dIcr38DMUwKBgBoN\nthtud8Ld0aVsHQpWLBjla9zhSJh5iOhZXnkslpEZNhH9mpcBHqDjQOJ71GyUYRVK\nOjdfnu9MejnCpNxf22X+mNoMwVWnHxRMVxqR1CCjo4tgHIrPGdZOvXeTvz2ejVaN\nAw7RbJq61tjEtSHYGxsqI3GDGVHlVRcK5mXYZbZ7AoGBAM9d1qVOK0Hoif0U3Ps4\nZGixXXb7SRT/GmjgPRph1equlRYWCK9JyZlKKF1C67nyHwykis9YKyyIXGX8fAqF\nbaGVi71+khNWYw+6hRt4eunaUY0mOHECg0wvVVmej5T2PZmMdNczzRgKy6GEyU1w\nuYOCQZhI9DRrcN0l1hMlF3Rg\n-----END PRIVATE KEY-----\n",
+    "client_email": "berlin@berlin-348706.iam.gserviceaccount.com",
+    "client_id": "109121811071404461219",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/berlin%40berlin-348706.iam.gserviceaccount.com"
+  }
+  

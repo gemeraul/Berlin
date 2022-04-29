@@ -1,22 +1,22 @@
 {
-    "name": "mongodb-express-rest-api",
+    "name": "Berlin",
     "version": "1.0.0",
-    "description": "Sample project for the article on MongoDB and Express.js web REST API tutorial",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/mongodb-developer/mongodb-express-rest-api-example.git"
+    "description": "",
+    "author": "Raul Grimaldi",
+    "license": "ISC",
+    "scripts": {
+        "dev": "cross-env GOOGLE_APPLICATION_CREDENTIALS=./server/google-key.json nodemon ./server/server.js"
     },
-    "keywords": [
-        "mongodb",
-        "node",
-        "express",
-        "atlas",
-        "react"
-    ],
-    "author": "Pavel Duchovny",
-    "license": "Apache 2.0",
-    "bugs": {
-        "url": "https://github.com/mongodb-developer/mongodb-express-rest-api-example/issues"
+    "dependencies": {
+        "@google-cloud/language": "^4.3.2",
+        "cors": "^2.8.5",
+        "cross-env": "^7.0.3",
+        "dotenv": "^16.0.0",
+        "express": "^4.18.0",
+        "mongodb": "^4.5.0",
+        "twitter-lite": "^1.1.0"
     },
-    "homepage": "https://github.com/mongodb-developer/mongodb-express-rest-api-example#readme"
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
 }
