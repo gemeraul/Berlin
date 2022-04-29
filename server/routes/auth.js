@@ -14,6 +14,7 @@ const dbo = require('../db/conn');
 userRoutes.route('/login').post(async function (req, res) {
   const dbConnect = dbo.getDb();
 
+  console.log(req.body.username)
   const user = await dbConnect
     .collection('users')
     .findOne({ username: req.body.username });
@@ -23,9 +24,17 @@ userRoutes.route('/login').post(async function (req, res) {
   if (user != null) {
     console.log('Found user: ', user.username)
     if (user.password === req.body.password) {
-      res.status(200).send('Successful login!');
+      console.log('Successful login!')
+      res.status(200).json({
+        message: 'Successful login!',
+        username: user.username,
+        token: 'token'
+      });
     } else {
-      res.status(401).send('Invalid password!')
+      console.log('Invalid password!')
+      res.status(401).json({
+        message: 'Invalid password!'
+      });
     }
   } else {
     console.log('Username does not exist!');
